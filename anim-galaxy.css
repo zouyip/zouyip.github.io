@@ -41,10 +41,10 @@
 .canvas-nebula-wrap{
   display: block;
   position: absolute;
-  top: 50px;
-  right: -50px;
-  width: 254px;
-  height: 254px;
+  top: 100px;
+  right: -200px;
+  width: 600px;
+  height: 600px;
   opacity: 0.5;
   transition: all 1s; -moz-transition: all 1s; -ms-transition: all 1s; -o-transition: all 1s; transition: all 1s;
   overflow: hidden;
