@@ -56,7 +56,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("nebula.png") no-repeat center/254px auto;
+  background: url("nebula.png") no-repeat center/600px auto;
   -webkit-transform: rotateX(45deg) rotateY(45deg);-moz-transform: rotateX(45deg) rotateY(45deg);-ms-transform: rotateX(45deg) rotateY(45deg);-o-transform: rotateX(45deg) rotateY(45deg);transform: rotateX(45deg) rotateY(45deg);
   animation: rotate 12s linear infinite;
 }
